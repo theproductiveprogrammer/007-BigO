@@ -10,7 +10,11 @@
  * Googlers are good at and many
  * of us would like to be good
  * at it too!
- *
+ */
+/**
+ * Big-O.png
+ */
+/**
  * I can relate – I find many
  * algorithms fascinating and
  * many more intimidating. And
