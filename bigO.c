@@ -298,7 +298,7 @@ void get_first(struct array* array) {
  * They often halve inputs at
  * each stage and thus have
  * inverse the performance of
- * exponentiation (see the
+ * the higher powers (see the
  * Power-Sisters to contrast).
  *
  * *__Completes 1 Million items
@@ -495,10 +495,10 @@ void quick_sort(struct array *array) {
  * power-sisters.png
  */
 /**
- * *_O(n^2),O(n^3): The Power Sister - Growing Exponentially_*
+ * *_O(n^2),O(n^3): The Power Sister - Growing Polynomially*
  *
- * These algorithms grow as an
- * exponent of the input.
+ * These algorithms grow as a
+ * polynomial of the input.
  * O(n^2) are known as Quadratic
  * and are known as Cubic
  * algorithms. Higher powers
@@ -558,8 +558,9 @@ void find_max_seq_sum(struct array* array) {
 /**
  * *_O(2^n): Wonder Woman - Combination Loops_*
  *
- * These are algorithms whose
- * growth doubles with every new
+ * These are exponential
+ * algorithms whose growth
+ * doubles with every new
  * addition to the input.
  *
  * You can recognize these as
