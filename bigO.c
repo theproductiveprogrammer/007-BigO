@@ -31,6 +31,14 @@
  * _understand_ Big(O) and have
  * the beginnings of an
  * intuition about it.
+ *
+ * As always, this blog post is
+ * also a fully executable
+ * program - this time you can
+ * use it to play with the
+ * various Big(O) algorithms and
+ * develop a feel for how they
+ * react to different inputs.
  */
 /**
  * *_What _is_ Big(O) anyway?_*
