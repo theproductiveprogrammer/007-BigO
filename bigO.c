@@ -495,7 +495,7 @@ void quick_sort(struct array *array) {
  * power-sisters.png
  */
 /**
- * *_O(n^2),O(n^3): The Power Sister - Growing Polynomially*
+ * *_O(n^2),O(n^3): The Power Sister - Growing Polynomially_*
  *
  * These algorithms grow as a
  * polynomial of the input.
