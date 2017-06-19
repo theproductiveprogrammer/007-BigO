@@ -280,7 +280,8 @@ struct range_sum {
  * insert a node into a linked
  * list, pushing/popping a
  * stack, inserting/removing
- * from a queue,...
+ * from a queue, deleting from a
+ * doubly-linked list,...
  */
 void get_first(struct array* array) {
     if(array->sz > 0) RESULT(array->vals[0]);
@@ -311,9 +312,7 @@ void get_first(struct array* array) {
  * phone book, looking up a word
  * in a dictionary, doing a
  * binary search, find element
- * in a binary search tree,
- * deleting from a doubly-linked
- * list,...
+ * in a binary search tree,...
  */
 void binary_jump_search(struct search *s) {
     long jump = s->haystack->sz / 2;
