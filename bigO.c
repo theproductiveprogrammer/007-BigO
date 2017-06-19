@@ -1,5 +1,5 @@
 /**
- * How to start using Big(O)
+ * How to start using Big(O) to understand Algorithms
  */
 /**
  * We’ve all heard of Big(O).
